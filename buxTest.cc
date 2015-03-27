@@ -5,7 +5,7 @@
 #include <list>
 #include <iterator>
 
-using namespace std;
+using namespace std;//not good 
 //bool fn (int i,int j) { return (i<j); }
 
 int main() {
